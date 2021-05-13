@@ -1,3 +1,8 @@
+:root {
+  --dark-3: #555770;
+}
+
+
 .Input-Field {
     width: 448px;
     height: 241px;
