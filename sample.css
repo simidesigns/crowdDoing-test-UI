@@ -36,9 +36,11 @@
   gap: 10px;
   padding: 12px 8px;
   border-radius: 4px;
-  border: solid 1px var(--dark-3);
+/*   border: solid 1px var(--dark-3); */
   background-color: rgba(255, 255, 255, 0.15);
   border-style: groove;
+  border-color: #555770;
+   
 }
 
 .Example-Text {
