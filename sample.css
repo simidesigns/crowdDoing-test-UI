@@ -1,0 +1,27 @@
+.Input-Field {
+    width: 448px;
+    height: 241px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 8px;
+    margin: 18px 81px 24px 1px;
+    padding: 0;
+  }
+
+
+  .Text-Area {
+    width: 43px;
+    height: 22px;
+    flex-grow: 0;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: left;
+    color: #28293d;
+  }
